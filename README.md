@@ -1,4 +1,5 @@
 # pub-blog
 1. blog for remembering
-2. 工具使用
+2. daily logging
+3. 
 ## 
